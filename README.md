@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Samuel is a full-stack (web) developer who uses the MERN Stack, Java (SpringBoot), and either SQL or NoSQL for DBMSs.
+
 <!--
 **achilahSamy/achilahSamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
