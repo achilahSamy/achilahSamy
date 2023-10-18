@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hey there 👋
 
-Samuel is a full-stack (web) developer who uses the MERN Stack, Java (SpringBoot), and either SQL or NoSQL for DBMSs.
+My name is Samuel, Achilah. Samuel is a full-stack (web) developer who uses the MERN Stack, Java (SpringBoot), and either SQL or NoSQL for DBMSs.
 
 - 🌱 I’m currently learning React Native and SpringBoot
+- ⚡ Fun fact: YHVH caused the big bang
+
 
 
 <!--
